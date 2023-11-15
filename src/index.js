@@ -1,4 +1,4 @@
-//varivaeis
+//variaveis
 let nomeHeroi = "Desafiante Oculto"
 let xp = 5050
 let nivel
